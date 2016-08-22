@@ -1,0 +1,22 @@
+PODS:
+  - Mantle (2.0.6):
+    - Mantle/extobjc (= 2.0.6)
+  - Mantle/extobjc (2.0.6)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - STHTTPRequest (1.0.2)
+
+DEPENDENCIES:
+  - Mantle
+  - SDWebImage
+  - STHTTPRequest
+
+SPEC CHECKSUMS:
+  Mantle: 299966b00759634931699f69cb6a30b9239b944d
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  STHTTPRequest: f4ca4e3ca31ebd9b54c134aa721ddd1711f1089d
+
+PODFILE CHECKSUM: 8260f5e94262a07ccf35c0029a4e3fc7f58752d8
+
+COCOAPODS: 1.0.1
